@@ -1,6 +1,6 @@
 /*
  * THE CAT EXTENSION
- * http://scratchx.org/?url=http://lifaythegoblin.github.io/extensions/CatX.js#scratch
+ * http://scratchx.org/?url=https://lifaythegoblin.github.io/ScratchX-Extensions/CatX.js#scratch
  */
  
 (function(ext) {
@@ -24,7 +24,7 @@
             // Block type, block name, function name
             ['w', 'Give me a Cat Pic', 'catpic'],
         ],
-		url: 'http://lifaythegoblin.github.io/extensions/CatX.js'
+		url: 'https://lifaythegoblin.github.io/ScratchX-Extensions/CatX.js#scratch'
     };
 
     // Register the extension
