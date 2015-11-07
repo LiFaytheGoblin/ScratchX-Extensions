@@ -1,7 +1,8 @@
 /*
  * THE CAT EXTENSION
- * http://scratchx.org/?url=http://lifaythegoblin.github.io/extensions/CatX.js
+ * http://scratchx.org/?url=http://lifaythegoblin.github.io/extensions/CatX.js#scratch
  */
+ 
 (function(ext) {
     // Cleanup function when the extension is unloaded
     ext._shutdown = function() {};
@@ -21,7 +22,7 @@
     var descriptor = {
         blocks: [
             // Block type, block name, function name
-            [' ', 'Give me a Cat Pic', 'catpic'],
+            ['w', 'Give me a Cat Pic', 'catpic'],
         ],
 		url: 'http://lifaythegoblin.github.io/extensions/CatX.js'
     };
