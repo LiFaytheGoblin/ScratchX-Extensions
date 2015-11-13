@@ -1,6 +1,6 @@
 /*
  * THE CAT EXTENSION
- * http://scratchx.org/?url=https://cdn.rawgit.com/LiFaytheGoblin/ScratchX-Extensions/gh-pages/CatX.js#scratch
+ * http://scratchx.org/?url=https://lifaythegoblin.github.io/ScratchX-Extensions/CatX.js#scratch
  */
  
 (function(ext) {
