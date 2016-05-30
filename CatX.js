@@ -22,7 +22,7 @@
     var descriptor = {
         blocks: [
             // Block type, block name, function name
-            ['w', 'Give me a Cat Pic', 'catpic'],
+            [' ', 'Give me a Cat Pic', 'catpic'],
         ],
 		url: 'https://github.com/LiFaytheGoblin/ScratchX-Extensions'
     };
